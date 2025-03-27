@@ -1,0 +1,14 @@
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\bin\Debug\net8.0\CadastramentoUsuario.exe
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\bin\Debug\net8.0\CadastramentoUsuario.deps.json
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\bin\Debug\net8.0\CadastramentoUsuario.runtimeconfig.json
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\bin\Debug\net8.0\CadastramentoUsuario.dll
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\bin\Debug\net8.0\CadastramentoUsuario.pdb
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\CadastramentoUsuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\CadastramentoUsuario.AssemblyInfoInputs.cache
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\CadastramentoUsuario.AssemblyInfo.cs
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\CadastramentoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\CadastramentoUsuario.dll
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\refint\CadastramentoUsuario.dll
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\CadastramentoUsuario.pdb
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\CadastramentoUsuario.genruntimeconfig.cache
+C:\Users\david\projetos\ws-c#\CadastroCliente\CadastramentoUsuario\obj\Debug\net8.0\ref\CadastramentoUsuario.dll

@@ -1,0 +1,14 @@
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\bin\Debug\net8.0\BlocoNotas.exe
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\bin\Debug\net8.0\BlocoNotas.deps.json
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\bin\Debug\net8.0\BlocoNotas.runtimeconfig.json
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\bin\Debug\net8.0\BlocoNotas.dll
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\bin\Debug\net8.0\BlocoNotas.pdb
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\BlocoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\BlocoNotas.AssemblyInfoInputs.cache
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\BlocoNotas.AssemblyInfo.cs
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\BlocoNotas.csproj.CoreCompileInputs.cache
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\BlocoNotas.dll
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\refint\BlocoNotas.dll
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\BlocoNotas.pdb
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\BlocoNotas.genruntimeconfig.cache
+C:\Users\david\projetos\ws-c#\BlocoNotas\BlocoNotas\obj\Debug\net8.0\ref\BlocoNotas.dll
